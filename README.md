@@ -4,6 +4,12 @@ Totale Impale's Storyline and Updates ( New Game )
 Totale Impale is a AAA Game Developed by CodyTheNoob.
 It is made in Unity Game Engine, Supports 4GB Ram to 16GB Ram PC.
 
+A Raw Picture of Totale Impale
+![PistolShotNext-Gen Graphics](https://user-images.githubusercontent.com/92101427/186935199-c2652392-f7e5-4264-82c3-c669469d7b14.png)
+![RifleShotNext-Gen Graphics](https://user-images.githubusercontent.com/92101427/186935206-e5a86891-9d6b-42a5-a06b-3437979792c9.png)
+![SnipeShotNext-Gen Graphics](https://user-images.githubusercontent.com/92101427/186935212-0c26f625-4bc9-4fa0-9ddb-e9a2bbb05302.png)
+
+
     Storyline
 ------------------
 Season 1 - In The Beginning
