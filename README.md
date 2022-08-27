@@ -21,3 +21,6 @@ He was really sad. Praying to the god that there should be peace and His family 
 He still wanted to Visit his family to see them. He was ready to go to his home and see them.
 But, There was a Border Between Those Countries. His home was In other Country's Border.
 He Still goes to See His Family.
+
+Before Reading the Story, There are spoilers ⚠.
+Please wait if you like to wait and play the game.
